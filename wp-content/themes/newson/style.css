@@ -1,0 +1,74 @@
+/*
+	Theme Name: newson
+	Description: NewsON theme
+	Version: 1.0
+	Author: Rightapplications
+	Tags: Blank, HTML5, CSS3, Parallax
+
+*/
+
+.additionalH1{
+    display:none;
+}
+
+.block-com  a{
+    color: #fff;
+}
+.block-com  a:hover{
+    color:#ccc;
+}
+
+footer .pull-left span{
+float:left;
+}
+.menu-footer-menu-container{
+    float:left;
+}
+#menu-footer-menu {
+    float:left;
+    list-style-type:none;
+    padding-left:0;
+}
+#menu-footer-menu li{
+    float:left;
+}
+
+span.wpcf7-list-item{
+display:block;
+color: #000;
+    font-size: 16px;
+    line-height: 30px;
+    margin-bottom: 2px;
+}
+
+.panel-heading h3{
+    text-transform:none;
+}
+
+#map-mobile-pop{
+    display:block;
+}
+
+.textpage .news-block {
+    border-bottom: medium none;
+
+}
+.news-block div{
+     color: #000;
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.wpcf7-response-output{
+    clear:both!important;
+}
+.wpcf7-validation-errors{
+    display:none!important;
+}
+.wpcf7-mail-sent-ok{
+    border-color: #ccc!important;
+}
+
+.company .col-sm-4 p a, .company .col-sm-4 p a:hover, .company .col-sm-4 p a:visited{
+    color:#fff;
+}
